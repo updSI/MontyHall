@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Slike">
+        <file>VrataOdprta.jpg</file>
+        <file>VrataZaprta.jpg</file>
+        <file>VrataOdprtaMoney.jpg</file>
+        <file>VrataOdprtaPoop.jpg</file>
+        <file>VrataZaprtaSelected.jpg</file>
+    </qresource>
+</RCC>
